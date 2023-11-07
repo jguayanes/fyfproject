@@ -1,6 +1,6 @@
 const Main = () => {
   return (
-    <section className="flex flex-wrap gap-4 p-2 md:justify-center">
+    <section className="flex flex-wrap gap-4 p-3 justify-center md:justify-center">
       <div className="text-white border-[5px] rounded-md h-[170px] border-gray-700 w-[150px] grid place-items-center hover:bg-gray-700">
         <img className="w-16" src="./fami.png" alt="" />
         <h2 className="underline decoration-2 ">familiares y amigos </h2>
